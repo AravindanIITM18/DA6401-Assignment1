@@ -1,0 +1,16 @@
+{"time":"2025-03-17T19:38:14.3275832+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250317_193814-bytw0zxp\\logs\\debug-core.log"}
+{"time":"2025-03-17T19:38:14.906879+04:00","level":"INFO","msg":"created new stream","id":"bytw0zxp"}
+{"time":"2025-03-17T19:38:14.906879+04:00","level":"INFO","msg":"stream: started","id":"bytw0zxp"}
+{"time":"2025-03-17T19:38:14.906879+04:00","level":"INFO","msg":"handler: started","stream_id":"bytw0zxp"}
+{"time":"2025-03-17T19:38:14.906879+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"bytw0zxp"}
+{"time":"2025-03-17T19:38:14.906879+04:00","level":"INFO","msg":"sender: started","stream_id":"bytw0zxp"}
+{"time":"2025-03-17T19:38:15.440215+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T19:38:16.9832388+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T19:38:16.9843+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T19:38:18.0083807+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\Images from Fashion MNIST_0_bc9cd1b2054be42dda2b.png","runtime_seconds":0.4299636,"progress":"75.8KB/75.8KB"},{"desc":"uploading config.yaml","runtime_seconds":0.1206318,"progress":"585B/585B"}],"total_operations":2}}
+{"time":"2025-03-17T19:38:18.3867648+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T19:38:18.7430744+04:00","level":"INFO","msg":"stream: closing","id":"bytw0zxp"}
+{"time":"2025-03-17T19:38:18.7440693+04:00","level":"INFO","msg":"handler: closed","stream_id":"bytw0zxp"}
+{"time":"2025-03-17T19:38:18.7440693+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bytw0zxp"}
+{"time":"2025-03-17T19:38:18.7450657+04:00","level":"INFO","msg":"sender: closed","stream_id":"bytw0zxp"}
+{"time":"2025-03-17T19:38:18.7450657+04:00","level":"INFO","msg":"stream: closed","id":"bytw0zxp"}

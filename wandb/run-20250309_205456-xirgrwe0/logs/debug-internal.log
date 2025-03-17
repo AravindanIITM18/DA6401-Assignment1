@@ -1,0 +1,16 @@
+{"time":"2025-03-09T20:54:56.3274829+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250309_205456-xirgrwe0\\logs\\debug-core.log"}
+{"time":"2025-03-09T20:54:56.4614955+04:00","level":"INFO","msg":"created new stream","id":"xirgrwe0"}
+{"time":"2025-03-09T20:54:56.4614955+04:00","level":"INFO","msg":"stream: started","id":"xirgrwe0"}
+{"time":"2025-03-09T20:54:56.4614955+04:00","level":"INFO","msg":"handler: started","stream_id":"xirgrwe0"}
+{"time":"2025-03-09T20:54:56.462034+04:00","level":"INFO","msg":"sender: started","stream_id":"xirgrwe0"}
+{"time":"2025-03-09T20:54:56.462034+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"xirgrwe0"}
+{"time":"2025-03-09T20:54:57.302139+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:56:08.481733+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:56:08.4822714+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:56:09.4918625+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3289258,"progress":"982B/982B"}],"total_operations":1}}
+{"time":"2025-03-09T20:56:09.5167948+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:56:09.8818497+04:00","level":"INFO","msg":"stream: closing","id":"xirgrwe0"}
+{"time":"2025-03-09T20:56:09.9007294+04:00","level":"INFO","msg":"handler: closed","stream_id":"xirgrwe0"}
+{"time":"2025-03-09T20:56:09.9007294+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xirgrwe0"}
+{"time":"2025-03-09T20:56:09.9017545+04:00","level":"INFO","msg":"sender: closed","stream_id":"xirgrwe0"}
+{"time":"2025-03-09T20:56:09.9022934+04:00","level":"INFO","msg":"stream: closed","id":"xirgrwe0"}

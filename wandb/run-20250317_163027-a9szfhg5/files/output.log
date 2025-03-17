@@ -1,0 +1,36 @@
+Epoch 1, Loss: 0.4861
+Epoch 2, Loss: 0.4859
+Epoch 3, Loss: 0.4790
+Epoch 4, Loss: 0.5329
+Epoch 5, Loss: 0.3843
+Epoch 6, Loss: 0.5181
+Epoch 7, Loss: 0.3696
+Epoch 8, Loss: 0.3783
+Epoch 9, Loss: 0.4908
+Epoch 10, Loss: 0.3274
+Epoch 1, Loss: 0.5175
+Epoch 2, Loss: 0.4347
+Epoch 3, Loss: 0.5611
+Epoch 4, Loss: 0.4924
+Epoch 5, Loss: 0.5039
+Epoch 6, Loss: 0.3453
+Epoch 7, Loss: 0.3606
+Epoch 8, Loss: 0.4265
+Epoch 9, Loss: 0.3374
+Epoch 10, Loss: 0.4682
+Model trained and saved as best_model.pth
+Epoch 1, Loss: 0.5717
+Epoch 2, Loss: 0.4812
+Epoch 3, Loss: 0.4244
+Epoch 4, Loss: 0.4660
+Epoch 5, Loss: 0.4685
+Epoch 6, Loss: 0.4312
+Epoch 7, Loss: 0.4257
+Epoch 8, Loss: 0.3498
+Epoch 9, Loss: 0.4251
+Epoch 10, Loss: 0.3178
+Model trained and saved as best_model.pth
+Test Accuracy: 0.8763
+Test Accuracy: 0.8763
+Test Accuracy: 0.8763
+wandb: WARNING Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.

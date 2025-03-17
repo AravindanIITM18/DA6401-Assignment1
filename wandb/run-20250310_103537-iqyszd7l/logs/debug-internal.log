@@ -1,0 +1,22 @@
+{"time":"2025-03-10T10:35:37.5130938+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250310_103537-iqyszd7l\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:35:37.6523733+04:00","level":"INFO","msg":"created new stream","id":"iqyszd7l"}
+{"time":"2025-03-10T10:35:37.6523733+04:00","level":"INFO","msg":"handler: started","stream_id":"iqyszd7l"}
+{"time":"2025-03-10T10:35:37.6523733+04:00","level":"INFO","msg":"sender: started","stream_id":"iqyszd7l"}
+{"time":"2025-03-10T10:35:37.6523733+04:00","level":"INFO","msg":"stream: started","id":"iqyszd7l"}
+{"time":"2025-03-10T10:35:37.6523733+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"iqyszd7l"}
+{"time":"2025-03-10T10:35:38.1989107+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:36:09.4773019+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final/iqyszd7l/file_stream\": dial tcp 35.186.228.49:443: connectex: An established connection was aborted by the software in your host machine."}
+{"time":"2025-03-10T10:36:09.5696104+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T10:36:11.6817637+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final/iqyszd7l/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T10:36:11.6898587+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T10:36:15.8101859+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T10:36:16.4928488+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final/iqyszd7l/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T10:37:31.1435551+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:37:31.1467436+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:37:32.1595439+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.2911347,"progress":"281B/281B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2911347,"progress":"199B/199B"}],"total_operations":2}}
+{"time":"2025-03-10T10:37:32.6932498+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:37:33.134328+04:00","level":"INFO","msg":"stream: closing","id":"iqyszd7l"}
+{"time":"2025-03-10T10:37:33.134328+04:00","level":"INFO","msg":"handler: closed","stream_id":"iqyszd7l"}
+{"time":"2025-03-10T10:37:33.134328+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"iqyszd7l"}
+{"time":"2025-03-10T10:37:33.134328+04:00","level":"INFO","msg":"sender: closed","stream_id":"iqyszd7l"}
+{"time":"2025-03-10T10:37:33.1353238+04:00","level":"INFO","msg":"stream: closed","id":"iqyszd7l"}

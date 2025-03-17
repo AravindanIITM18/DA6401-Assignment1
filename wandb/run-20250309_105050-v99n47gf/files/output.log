@@ -1,0 +1,18 @@
+Epoch 1, Loss: 3.0851
+C:\Users\arvin\AppData\Local\Temp\ipykernel_28684\725986296.py:36: RuntimeWarning: divide by zero encountered in log
+  val_loss = -np.sum(np.eye(10)[y_val] * np.log(y_pred_val)) / X_val.shape[0]
+C:\Users\arvin\AppData\Local\Temp\ipykernel_28684\725986296.py:36: RuntimeWarning: invalid value encountered in multiply
+  val_loss = -np.sum(np.eye(10)[y_val] * np.log(y_pred_val)) / X_val.shape[0]
+C:\Users\arvin\AppData\Local\Temp\ipykernel_28684\725986296.py:41: RuntimeWarning: divide by zero encountered in log
+  train_loss = -np.sum(np.eye(10)[y_train] * np.log(y_pred_train)) / X_train.shape[0]
+C:\Users\arvin\AppData\Local\Temp\ipykernel_28684\725986296.py:41: RuntimeWarning: invalid value encountered in multiply
+  train_loss = -np.sum(np.eye(10)[y_train] * np.log(y_pred_train)) / X_train.shape[0]
+Epoch 1, Loss: 2.5957
+Epoch 1, Loss: 2.5479
+Epoch 1, Loss: 2.5344
+Epoch 1, Loss: 2.5162
+Epoch 1, Loss: 2.4892
+Epoch 1, Loss: 2.4586
+Epoch 1, Loss: 2.4290
+Epoch 1, Loss: 2.4030
+Epoch 1, Loss: 2.3811

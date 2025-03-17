@@ -1,0 +1,25 @@
+2025-03-09 21:28:08,145 INFO    Thread-192 (_run_job):18420 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-09 21:28:08,145 INFO    Thread-192 (_run_job):18420 [wandb_setup.py:_flush():67] Configure stats pid to 18420
+2025-03-09 21:28:08,145 INFO    Thread-192 (_run_job):18420 [wandb_setup.py:_flush():67] Loading settings from C:\Users\arvin\.config\wandb\settings
+2025-03-09 21:28:08,145 INFO    Thread-192 (_run_job):18420 [wandb_setup.py:_flush():67] Loading settings from c:\Users\arvin\Desktop\VSCode\DA6401- Deep Learning\wandb\settings
+2025-03-09 21:28:08,145 INFO    Thread-192 (_run_job):18420 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-09 21:28:08,147 INFO    Thread-192 (_run_job):18420 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\arvin\Desktop\VSCode\DA6401- Deep Learning\wandb\run-20250309_212808-odfofys8\logs\debug.log
+2025-03-09 21:28:08,148 INFO    Thread-192 (_run_job):18420 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\arvin\Desktop\VSCode\DA6401- Deep Learning\wandb\run-20250309_212808-odfofys8\logs\debug-internal.log
+2025-03-09 21:28:08,148 INFO    Thread-192 (_run_job):18420 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000266610E04F0>
+2025-03-09 21:28:08,148 INFO    Thread-192 (_run_job):18420 [wandb_init.py:init():761] calling init triggers
+2025-03-09 21:28:08,149 INFO    Thread-192 (_run_job):18420 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 16, 'epochs': 10, 'hidden_layers': 5, 'hidden_size': 128, 'learning_rate': 0.0001, 'optimizer': 'momentum', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-09 21:28:08,149 INFO    Thread-192 (_run_job):18420 [wandb_init.py:init():784] starting backend
+2025-03-09 21:28:08,149 INFO    Thread-192 (_run_job):18420 [wandb_init.py:init():788] sending inform_init request
+2025-03-09 21:28:08,157 INFO    Thread-192 (_run_job):18420 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-09 21:28:08,158 INFO    Thread-192 (_run_job):18420 [wandb_init.py:init():798] backend started and connected
+2025-03-09 21:28:08,176 INFO    Thread-192 (_run_job):18420 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'sigmoid', 'batch_size': 16, 'epochs': 10, 'hidden_layers': 5, 'hidden_size': 128, 'learning_rate': 0.0001, 'optimizer': 'momentum', 'weight_decay': 0.0005, 'weight_init': 'random'}
+2025-03-09 21:28:08,179 INFO    Thread-192 (_run_job):18420 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-09 21:28:08,186 INFO    Thread-192 (_run_job):18420 [wandb_init.py:init():891] updated telemetry
+2025-03-09 21:28:08,291 INFO    Thread-192 (_run_job):18420 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-09 21:28:08,847 INFO    Thread-192 (_run_job):18420 [wandb_init.py:init():990] starting run threads in backend
+2025-03-09 21:28:10,067 INFO    Thread-192 (_run_job):18420 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-09 21:28:10,068 INFO    Thread-192 (_run_job):18420 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-09 21:28:10,068 INFO    Thread-192 (_run_job):18420 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-09 21:28:10,069 INFO    Thread-192 (_run_job):18420 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-09 21:28:10,071 INFO    Thread-192 (_run_job):18420 [wandb_init.py:init():1032] run started, returning control to user process

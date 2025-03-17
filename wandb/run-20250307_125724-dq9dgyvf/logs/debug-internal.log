@@ -1,0 +1,63 @@
+{"time":"2025-03-07T12:57:24.277722+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250307_125724-dq9dgyvf\\logs\\debug-core.log"}
+{"time":"2025-03-07T12:57:24.8865207+04:00","level":"INFO","msg":"created new stream","id":"dq9dgyvf"}
+{"time":"2025-03-07T12:57:24.8865207+04:00","level":"INFO","msg":"stream: started","id":"dq9dgyvf"}
+{"time":"2025-03-07T12:57:24.8865207+04:00","level":"INFO","msg":"sender: started","stream_id":"dq9dgyvf"}
+{"time":"2025-03-07T12:57:24.8865207+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"dq9dgyvf"}
+{"time":"2025-03-07T12:57:24.8865207+04:00","level":"INFO","msg":"handler: started","stream_id":"dq9dgyvf"}
+{"time":"2025-03-07T12:57:25.4101512+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T12:57:26.3032141+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:01:30.1213392+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:01:30.1697136+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:01:43.8917382+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:01:43.8995+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:01:48.6587554+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:01:48.6844331+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:12:11.2064398+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:12:11.5989138+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:00.0760729+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:00.0822804+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:00.1176109+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:00.1256953+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:00.2344048+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:00.2442265+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:00.4914249+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:00.4975966+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:01.4594766+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:01.4646193+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:01.4865989+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:01.5026298+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:01.6819946+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:01.691937+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:02.149036+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:02.1598263+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:03.6858389+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:03.6948701+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:03.8254096+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:03.8356073+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:11.2123188+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:11.2177515+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:11.2435404+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:11.2545237+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:19.667502+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:19.6793815+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:26.4761884+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:31.3149247+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:14:36.5962536+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:14:36.6256041+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:15:44.8413306+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:16:06.3445764+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:18:49.8012755+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:18:49.8034001+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:18:57.1564188+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:18:57.1740592+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:19:51.1585874+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:19:51.1641023+04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T13:22:00.7467657+04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T13:22:02.607148+04:00","level":"INFO","msg":"stream: closing","id":"dq9dgyvf"}
+{"time":"2025-03-07T13:22:02.607148+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T13:22:02.6077199+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T13:22:03.6026968+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T13:22:03.9653837+04:00","level":"INFO","msg":"handler: closed","stream_id":"dq9dgyvf"}
+{"time":"2025-03-07T13:22:03.9653837+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dq9dgyvf"}
+{"time":"2025-03-07T13:22:03.9653837+04:00","level":"INFO","msg":"sender: closed","stream_id":"dq9dgyvf"}
+{"time":"2025-03-07T13:22:03.9661059+04:00","level":"INFO","msg":"stream: closed","id":"dq9dgyvf"}

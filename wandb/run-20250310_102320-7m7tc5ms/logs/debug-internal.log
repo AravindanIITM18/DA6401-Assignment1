@@ -1,0 +1,20 @@
+{"time":"2025-03-10T10:23:20.4768245+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250310_102320-7m7tc5ms\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:23:20.6146817+04:00","level":"INFO","msg":"created new stream","id":"7m7tc5ms"}
+{"time":"2025-03-10T10:23:20.6146817+04:00","level":"INFO","msg":"stream: started","id":"7m7tc5ms"}
+{"time":"2025-03-10T10:23:20.6146817+04:00","level":"INFO","msg":"handler: started","stream_id":"7m7tc5ms"}
+{"time":"2025-03-10T10:23:20.6146817+04:00","level":"INFO","msg":"sender: started","stream_id":"7m7tc5ms"}
+{"time":"2025-03-10T10:23:20.6146817+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"7m7tc5ms"}
+{"time":"2025-03-10T10:23:21.3412092+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:33:05.5505773+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final/7m7tc5ms/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T10:33:07.919113+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final/7m7tc5ms/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T10:33:38.90085+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final/7m7tc5ms/file_stream\": read tcp 192.168.169.76:60084->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-10T10:33:45.922458+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final/7m7tc5ms/file_stream\": read tcp 192.168.169.76:60294->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2025-03-10T10:34:03.4398137+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:34:03.4409804+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:34:04.4601003+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.4215467,"progress":"211B/211B"},{"desc":"uploading output.log","runtime_seconds":0.4210339,"progress":"220B/220B"},{"desc":"uploading config.yaml","runtime_seconds":0.1306908,"progress":"975B/975B"}],"total_operations":3}}
+{"time":"2025-03-10T10:34:04.7251803+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:34:05.0889946+04:00","level":"INFO","msg":"stream: closing","id":"7m7tc5ms"}
+{"time":"2025-03-10T10:34:05.0889946+04:00","level":"INFO","msg":"handler: closed","stream_id":"7m7tc5ms"}
+{"time":"2025-03-10T10:34:05.0889946+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7m7tc5ms"}
+{"time":"2025-03-10T10:34:05.0889946+04:00","level":"INFO","msg":"sender: closed","stream_id":"7m7tc5ms"}
+{"time":"2025-03-10T10:34:05.0889946+04:00","level":"INFO","msg":"stream: closed","id":"7m7tc5ms"}

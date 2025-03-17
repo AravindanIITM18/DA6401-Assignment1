@@ -1,0 +1,2 @@
+Epoch 0, Loss: 0.5166
+wandb: Network error (ConnectionError), entering retry loop.

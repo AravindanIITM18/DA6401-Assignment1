@@ -1,0 +1,16 @@
+{"time":"2025-03-08T21:34:33.108254+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250308_213433-uv7rz1ef\\logs\\debug-core.log"}
+{"time":"2025-03-08T21:34:33.3040703+04:00","level":"INFO","msg":"created new stream","id":"uv7rz1ef"}
+{"time":"2025-03-08T21:34:33.3040703+04:00","level":"INFO","msg":"stream: started","id":"uv7rz1ef"}
+{"time":"2025-03-08T21:34:33.3051055+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"uv7rz1ef"}
+{"time":"2025-03-08T21:34:33.3051055+04:00","level":"INFO","msg":"handler: started","stream_id":"uv7rz1ef"}
+{"time":"2025-03-08T21:34:33.3051055+04:00","level":"INFO","msg":"sender: started","stream_id":"uv7rz1ef"}
+{"time":"2025-03-08T21:34:33.8248818+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T21:35:12.8236351+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T21:35:12.8241923+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T21:35:13.8395582+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3205507,"progress":"22B/22B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3205507,"progress":"123B/123B"},{"desc":"uploading config.yaml","runtime_seconds":0.0056688,"progress":"976B/976B"}],"total_operations":3}}
+{"time":"2025-03-08T21:35:14.1900634+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T21:35:14.7276808+04:00","level":"INFO","msg":"stream: closing","id":"uv7rz1ef"}
+{"time":"2025-03-08T21:35:14.7276808+04:00","level":"INFO","msg":"handler: closed","stream_id":"uv7rz1ef"}
+{"time":"2025-03-08T21:35:14.7276808+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"uv7rz1ef"}
+{"time":"2025-03-08T21:35:14.7285281+04:00","level":"INFO","msg":"sender: closed","stream_id":"uv7rz1ef"}
+{"time":"2025-03-08T21:35:14.7290728+04:00","level":"INFO","msg":"stream: closed","id":"uv7rz1ef"}

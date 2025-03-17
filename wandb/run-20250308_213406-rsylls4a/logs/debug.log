@@ -1,0 +1,35 @@
+2025-03-08 21:34:06,685 INFO    Thread-584 (_run_job):19656 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-08 21:34:06,689 INFO    Thread-584 (_run_job):19656 [wandb_setup.py:_flush():67] Configure stats pid to 19656
+2025-03-08 21:34:06,692 INFO    Thread-584 (_run_job):19656 [wandb_setup.py:_flush():67] Loading settings from C:\Users\arvin\.config\wandb\settings
+2025-03-08 21:34:06,695 INFO    Thread-584 (_run_job):19656 [wandb_setup.py:_flush():67] Loading settings from c:\Users\arvin\Desktop\VSCode\DA6401- Deep Learning\wandb\settings
+2025-03-08 21:34:06,698 INFO    Thread-584 (_run_job):19656 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-08 21:34:06,701 INFO    Thread-584 (_run_job):19656 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\arvin\Desktop\VSCode\DA6401- Deep Learning\wandb\run-20250308_213406-rsylls4a\logs\debug.log
+2025-03-08 21:34:06,705 INFO    Thread-584 (_run_job):19656 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\arvin\Desktop\VSCode\DA6401- Deep Learning\wandb\run-20250308_213406-rsylls4a\logs\debug-internal.log
+2025-03-08 21:34:06,708 INFO    Thread-584 (_run_job):19656 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001B0967FFBE0>
+2025-03-08 21:34:06,710 INFO    Thread-584 (_run_job):19656 [wandb_init.py:init():761] calling init triggers
+2025-03-08 21:34:06,714 INFO    Thread-584 (_run_job):19656 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'tanh', 'batch_size': 16, 'epochs': 5, 'hidden_layers': 3, 'hidden_size': 32, 'learning_rate': 0.001, 'optimizer': 'sgd', 'weight_decay': 0, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-08 21:34:06,717 INFO    Thread-584 (_run_job):19656 [wandb_init.py:init():784] starting backend
+2025-03-08 21:34:06,721 INFO    Thread-584 (_run_job):19656 [wandb_init.py:init():788] sending inform_init request
+2025-03-08 21:34:06,728 INFO    Thread-584 (_run_job):19656 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-08 21:34:06,733 INFO    Thread-584 (_run_job):19656 [wandb_init.py:init():798] backend started and connected
+2025-03-08 21:34:06,745 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'tanh', 'batch_size': 16, 'epochs': 5, 'hidden_layers': 3, 'hidden_size': 32, 'learning_rate': 0.001, 'optimizer': 'sgd', 'weight_decay': 0, 'weight_init': 'random'}
+2025-03-08 21:34:06,758 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-08 21:34:06,767 INFO    Thread-584 (_run_job):19656 [wandb_init.py:init():891] updated telemetry
+2025-03-08 21:34:06,857 INFO    Thread-584 (_run_job):19656 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-08 21:34:07,354 INFO    Thread-584 (_run_job):19656 [wandb_init.py:init():990] starting run threads in backend
+2025-03-08 21:34:08,404 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-08 21:34:08,408 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-08 21:34:08,410 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-08 21:34:08,413 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-08 21:34:08,416 INFO    Thread-584 (_run_job):19656 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-08 21:34:25,329 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_finish():2112] finishing run mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/rsylls4a
+2025-03-08 21:34:25,332 INFO    Thread-584 (_run_job):19656 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-08 21:34:25,335 INFO    Thread-584 (_run_job):19656 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-08 21:34:25,338 INFO    Thread-584 (_run_job):19656 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-08 21:34:25,341 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-08 21:34:25,344 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_restore():2322] restore
+2025-03-08 21:34:25,347 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_restore():2328] restore done
+2025-03-08 21:34:26,777 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-08 21:34:26,782 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-08 21:34:26,794 INFO    Thread-584 (_run_job):19656 [wandb_run.py:_footer_sync_info():3917] logging synced files

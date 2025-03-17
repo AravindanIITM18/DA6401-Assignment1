@@ -1,0 +1,7 @@
+C:\Users\arvin\AppData\Local\Temp\ipykernel_12572\3957315.py:83: RuntimeWarning: invalid value encountered in log
+  return -np.sum(y_true * np.log(y_pred + 1e-9)) / y_true.shape[0]
+Epoch 1, Loss: nan
+C:\Users\arvin\AppData\Local\Temp\ipykernel_12572\974671157.py:36: RuntimeWarning: invalid value encountered in log
+  val_loss = -np.sum(np.eye(10)[y_val] * np.log(y_pred_val)) / X_val.shape[0]
+C:\Users\arvin\AppData\Local\Temp\ipykernel_12572\974671157.py:41: RuntimeWarning: invalid value encountered in log
+  train_loss = -np.sum(np.eye(10)[y_train] * np.log(y_pred_train)) / X_train.shape[0]

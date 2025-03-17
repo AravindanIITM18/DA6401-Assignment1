@@ -1,0 +1,32 @@
+{"time":"2025-03-08T21:42:27.7451996+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250308_214227-sxp59h6q\\logs\\debug-core.log"}
+{"time":"2025-03-08T21:42:27.8740486+04:00","level":"INFO","msg":"created new stream","id":"sxp59h6q"}
+{"time":"2025-03-08T21:42:27.8740486+04:00","level":"INFO","msg":"stream: started","id":"sxp59h6q"}
+{"time":"2025-03-08T21:42:27.8740486+04:00","level":"INFO","msg":"handler: started","stream_id":"sxp59h6q"}
+{"time":"2025-03-08T21:42:27.8740486+04:00","level":"INFO","msg":"sender: started","stream_id":"sxp59h6q"}
+{"time":"2025-03-08T21:42:27.8740486+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"sxp59h6q"}
+{"time":"2025-03-08T21:42:28.3025982+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T21:43:10.1691092+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:43:18.3367565+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.42.233.242:60103->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-08T21:43:23.0357432+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:43:23.0357432+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:43:27.2022101+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:43:27.286237+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:43:33.8632611+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T21:43:33.8637671+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T21:43:34.8840889+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":35.7917634,"error_status":"retrying: Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}],"total_operations":1}}
+{"time":"2025-03-08T21:43:36.0591179+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:43:36.7671031+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:43:55.2084916+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:43:55.821+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:44:29.987413+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:44:32.1661079+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:44:35.6114729+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":96.519742,"error_status":"retrying: Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}],"total_operations":1}}
+{"time":"2025-03-08T21:45:30.0013666+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:45:32.1669272+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-08T21:45:36.2826063+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":157.1913304,"error_status":"retrying: Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final_v2/sxp59h6q/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}],"total_operations":1}}
+{"time":"2025-03-08T21:46:33.902097+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T21:46:34.2541106+04:00","level":"INFO","msg":"stream: closing","id":"sxp59h6q"}
+{"time":"2025-03-08T21:46:34.2548698+04:00","level":"INFO","msg":"handler: closed","stream_id":"sxp59h6q"}
+{"time":"2025-03-08T21:46:34.2548698+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"sxp59h6q"}
+{"time":"2025-03-08T21:46:34.2554457+04:00","level":"INFO","msg":"sender: closed","stream_id":"sxp59h6q"}
+{"time":"2025-03-08T21:46:34.2554457+04:00","level":"INFO","msg":"stream: closed","id":"sxp59h6q"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T12:53:47.1636198+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250310_125347-ilskkbb3\\logs\\debug-core.log"}
+{"time":"2025-03-10T12:53:47.3118601+04:00","level":"INFO","msg":"created new stream","id":"ilskkbb3"}
+{"time":"2025-03-10T12:53:47.3118601+04:00","level":"INFO","msg":"stream: started","id":"ilskkbb3"}
+{"time":"2025-03-10T12:53:47.3118601+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ilskkbb3"}
+{"time":"2025-03-10T12:53:47.3118601+04:00","level":"INFO","msg":"handler: started","stream_id":"ilskkbb3"}
+{"time":"2025-03-10T12:53:47.3124813+04:00","level":"INFO","msg":"sender: started","stream_id":"ilskkbb3"}
+{"time":"2025-03-10T12:53:48.2490583+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:54:21.1246977+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:54:21.125673+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:54:22.1395943+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4640053,"progress":"220B/220B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4640053,"progress":"223B/223B"},{"desc":"uploading config.yaml","runtime_seconds":0.049136,"progress":"974B/974B"}],"total_operations":3}}
+{"time":"2025-03-10T12:54:22.7016+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:54:23.1469268+04:00","level":"INFO","msg":"stream: closing","id":"ilskkbb3"}
+{"time":"2025-03-10T12:54:23.1469268+04:00","level":"INFO","msg":"handler: closed","stream_id":"ilskkbb3"}
+{"time":"2025-03-10T12:54:23.1469268+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ilskkbb3"}
+{"time":"2025-03-10T12:54:23.1469268+04:00","level":"INFO","msg":"sender: closed","stream_id":"ilskkbb3"}
+{"time":"2025-03-10T12:54:23.1488306+04:00","level":"INFO","msg":"stream: closed","id":"ilskkbb3"}

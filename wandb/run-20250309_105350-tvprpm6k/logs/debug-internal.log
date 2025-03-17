@@ -1,0 +1,16 @@
+{"time":"2025-03-09T10:53:50.3110074+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250309_105350-tvprpm6k\\logs\\debug-core.log"}
+{"time":"2025-03-09T10:53:50.4331565+04:00","level":"INFO","msg":"created new stream","id":"tvprpm6k"}
+{"time":"2025-03-09T10:53:50.4337332+04:00","level":"INFO","msg":"stream: started","id":"tvprpm6k"}
+{"time":"2025-03-09T10:53:50.4337332+04:00","level":"INFO","msg":"handler: started","stream_id":"tvprpm6k"}
+{"time":"2025-03-09T10:53:50.4337332+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"tvprpm6k"}
+{"time":"2025-03-09T10:53:50.4337332+04:00","level":"INFO","msg":"sender: started","stream_id":"tvprpm6k"}
+{"time":"2025-03-09T10:53:50.7926698+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T10:55:42.5814179+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T10:55:42.5825529+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T10:55:43.5921698+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4067071,"progress":"220B/220B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4067071,"progress":"227B/227B"},{"desc":"uploading config.yaml","runtime_seconds":0.1154389,"progress":"984B/984B"}],"total_operations":3}}
+{"time":"2025-03-09T10:55:44.5456548+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T10:55:44.9118728+04:00","level":"INFO","msg":"stream: closing","id":"tvprpm6k"}
+{"time":"2025-03-09T10:55:44.9118728+04:00","level":"INFO","msg":"handler: closed","stream_id":"tvprpm6k"}
+{"time":"2025-03-09T10:55:44.9118728+04:00","level":"INFO","msg":"sender: closed","stream_id":"tvprpm6k"}
+{"time":"2025-03-09T10:55:44.9118728+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tvprpm6k"}
+{"time":"2025-03-09T10:55:44.9123882+04:00","level":"INFO","msg":"stream: closed","id":"tvprpm6k"}

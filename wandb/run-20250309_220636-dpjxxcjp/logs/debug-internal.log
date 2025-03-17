@@ -1,0 +1,16 @@
+{"time":"2025-03-09T22:06:36.3974953+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250309_220636-dpjxxcjp\\logs\\debug-core.log"}
+{"time":"2025-03-09T22:06:36.5561356+04:00","level":"INFO","msg":"created new stream","id":"dpjxxcjp"}
+{"time":"2025-03-09T22:06:36.5567511+04:00","level":"INFO","msg":"stream: started","id":"dpjxxcjp"}
+{"time":"2025-03-09T22:06:36.5567511+04:00","level":"INFO","msg":"handler: started","stream_id":"dpjxxcjp"}
+{"time":"2025-03-09T22:06:36.5567511+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"dpjxxcjp"}
+{"time":"2025-03-09T22:06:36.5567511+04:00","level":"INFO","msg":"sender: started","stream_id":"dpjxxcjp"}
+{"time":"2025-03-09T22:06:37.039688+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T22:07:52.2183732+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T22:07:52.2196038+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T22:07:53.2307103+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 4-4, summary, console lines 4-4","runtime_seconds":0.3784437},{"desc":"uploading output.log","runtime_seconds":0.213555,"progress":"110B/110B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.213555,"progress":"224B/224B"}],"total_operations":3}}
+{"time":"2025-03-09T22:07:53.8246425+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T22:07:54.2900993+04:00","level":"INFO","msg":"stream: closing","id":"dpjxxcjp"}
+{"time":"2025-03-09T22:07:54.2900993+04:00","level":"INFO","msg":"handler: closed","stream_id":"dpjxxcjp"}
+{"time":"2025-03-09T22:07:54.2900993+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dpjxxcjp"}
+{"time":"2025-03-09T22:07:54.2900993+04:00","level":"INFO","msg":"sender: closed","stream_id":"dpjxxcjp"}
+{"time":"2025-03-09T22:07:54.2912999+04:00","level":"INFO","msg":"stream: closed","id":"dpjxxcjp"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-09T21:21:42.7648141+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250309_212142-szjjg6kr\\logs\\debug-core.log"}
+{"time":"2025-03-09T21:21:42.903001+04:00","level":"INFO","msg":"created new stream","id":"szjjg6kr"}
+{"time":"2025-03-09T21:21:42.903001+04:00","level":"INFO","msg":"stream: started","id":"szjjg6kr"}
+{"time":"2025-03-09T21:21:42.903001+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"szjjg6kr"}
+{"time":"2025-03-09T21:21:42.903001+04:00","level":"INFO","msg":"sender: started","stream_id":"szjjg6kr"}
+{"time":"2025-03-09T21:21:42.903001+04:00","level":"INFO","msg":"handler: started","stream_id":"szjjg6kr"}
+{"time":"2025-03-09T21:21:43.5308321+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T21:23:00.21678+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T21:23:00.2178956+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T21:23:01.2356565+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.31736,"progress":"110B/110B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.31736,"progress":"221B/221B"},{"desc":"uploading config.yaml","runtime_seconds":0.0334195,"progress":"981B/981B"}],"total_operations":3}}
+{"time":"2025-03-09T21:23:01.5643433+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T21:23:01.9265741+04:00","level":"INFO","msg":"stream: closing","id":"szjjg6kr"}
+{"time":"2025-03-09T21:23:01.9265741+04:00","level":"INFO","msg":"handler: closed","stream_id":"szjjg6kr"}
+{"time":"2025-03-09T21:23:01.9265741+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"szjjg6kr"}
+{"time":"2025-03-09T21:23:01.9278588+04:00","level":"INFO","msg":"sender: closed","stream_id":"szjjg6kr"}
+{"time":"2025-03-09T21:23:01.9278588+04:00","level":"INFO","msg":"stream: closed","id":"szjjg6kr"}

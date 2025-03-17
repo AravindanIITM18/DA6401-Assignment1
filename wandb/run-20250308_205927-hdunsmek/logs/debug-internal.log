@@ -1,0 +1,16 @@
+{"time":"2025-03-08T20:59:27.1498893+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250308_205927-hdunsmek\\logs\\debug-core.log"}
+{"time":"2025-03-08T20:59:27.2706533+04:00","level":"INFO","msg":"created new stream","id":"hdunsmek"}
+{"time":"2025-03-08T20:59:27.2712334+04:00","level":"INFO","msg":"stream: started","id":"hdunsmek"}
+{"time":"2025-03-08T20:59:27.2712334+04:00","level":"INFO","msg":"handler: started","stream_id":"hdunsmek"}
+{"time":"2025-03-08T20:59:27.2712334+04:00","level":"INFO","msg":"sender: started","stream_id":"hdunsmek"}
+{"time":"2025-03-08T20:59:27.2712334+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"hdunsmek"}
+{"time":"2025-03-08T20:59:27.6596106+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T21:00:01.0881503+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T21:00:01.0892245+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T21:00:02.0972948+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4143291,"progress":"22B/22B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4143291,"progress":"122B/122B"},{"desc":"uploading config.yaml","runtime_seconds":0.0854556,"progress":"979B/979B"}],"total_operations":3}}
+{"time":"2025-03-08T21:00:03.0202253+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T21:00:03.3460233+04:00","level":"INFO","msg":"stream: closing","id":"hdunsmek"}
+{"time":"2025-03-08T21:00:03.3460233+04:00","level":"INFO","msg":"handler: closed","stream_id":"hdunsmek"}
+{"time":"2025-03-08T21:00:03.3460233+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hdunsmek"}
+{"time":"2025-03-08T21:00:03.3460233+04:00","level":"INFO","msg":"sender: closed","stream_id":"hdunsmek"}
+{"time":"2025-03-08T21:00:03.3470758+04:00","level":"INFO","msg":"stream: closed","id":"hdunsmek"}

@@ -1,0 +1,26 @@
+{"time":"2025-03-09T22:08:56.2039741+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250309_220856-lsu2xek0\\logs\\debug-core.log"}
+{"time":"2025-03-09T22:08:56.3528905+04:00","level":"INFO","msg":"created new stream","id":"lsu2xek0"}
+{"time":"2025-03-09T22:08:56.3534773+04:00","level":"INFO","msg":"stream: started","id":"lsu2xek0"}
+{"time":"2025-03-09T22:08:56.3534773+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"lsu2xek0"}
+{"time":"2025-03-09T22:08:56.3534773+04:00","level":"INFO","msg":"handler: started","stream_id":"lsu2xek0"}
+{"time":"2025-03-09T22:08:56.3534773+04:00","level":"INFO","msg":"sender: started","stream_id":"lsu2xek0"}
+{"time":"2025-03-09T22:08:56.8202489+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T22:57:05.7488182+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final1/lsu2xek0/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T22:57:05.8184482+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T22:57:08.122476+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T22:57:08.1748136+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final1/lsu2xek0/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T22:57:12.4137276+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final1/lsu2xek0/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T22:57:12.5319948+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T08:31:20.5607366+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1_final1/lsu2xek0/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T08:31:20.9169227+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-10T08:31:21.0551345+04:00","level":"WARN","msg":"sender: taking a long time","seconds":34454.7728873,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-03-10T08:31:39.9789733+04:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":34474.2159209,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-03-10T08:32:17.9517639+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:32:17.9546639+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:32:18.9569488+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3840284,"progress":"171B/171B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3840284,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.075624,"progress":"978B/978B"}],"total_operations":3}}
+{"time":"2025-03-10T08:32:19.2549556+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:32:19.5881731+04:00","level":"INFO","msg":"stream: closing","id":"lsu2xek0"}
+{"time":"2025-03-10T08:32:19.5881731+04:00","level":"INFO","msg":"sender: closed","stream_id":"lsu2xek0"}
+{"time":"2025-03-10T08:32:19.5887384+04:00","level":"INFO","msg":"handler: closed","stream_id":"lsu2xek0"}
+{"time":"2025-03-10T08:32:19.5887384+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lsu2xek0"}
+{"time":"2025-03-10T08:32:19.5893519+04:00","level":"INFO","msg":"stream: closed","id":"lsu2xek0"}

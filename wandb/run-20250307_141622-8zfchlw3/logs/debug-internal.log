@@ -1,0 +1,16 @@
+{"time":"2025-03-07T14:16:22.1256796+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250307_141622-8zfchlw3\\logs\\debug-core.log"}
+{"time":"2025-03-07T14:16:22.2526479+04:00","level":"INFO","msg":"created new stream","id":"8zfchlw3"}
+{"time":"2025-03-07T14:16:22.2526479+04:00","level":"INFO","msg":"stream: started","id":"8zfchlw3"}
+{"time":"2025-03-07T14:16:22.2526479+04:00","level":"INFO","msg":"handler: started","stream_id":"8zfchlw3"}
+{"time":"2025-03-07T14:16:22.2526479+04:00","level":"INFO","msg":"sender: started","stream_id":"8zfchlw3"}
+{"time":"2025-03-07T14:16:22.2526479+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"8zfchlw3"}
+{"time":"2025-03-07T14:16:22.651199+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T14:18:22.6423129+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T14:18:22.6433578+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T14:18:23.6538817+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-0, summary","runtime_seconds":0.2490058},{"desc":"uploading output.log","runtime_seconds":0.1180929,"progress":"22B/22B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1180929,"progress":"126B/126B"},{"desc":"uploading config.yaml","runtime_seconds":0.0838683,"progress":"946B/946B"}],"total_operations":4}}
+{"time":"2025-03-07T14:18:24.110332+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T14:18:24.5661119+04:00","level":"INFO","msg":"stream: closing","id":"8zfchlw3"}
+{"time":"2025-03-07T14:18:24.5661119+04:00","level":"INFO","msg":"handler: closed","stream_id":"8zfchlw3"}
+{"time":"2025-03-07T14:18:24.5661119+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8zfchlw3"}
+{"time":"2025-03-07T14:18:24.5661119+04:00","level":"INFO","msg":"sender: closed","stream_id":"8zfchlw3"}
+{"time":"2025-03-07T14:18:24.5672074+04:00","level":"INFO","msg":"stream: closed","id":"8zfchlw3"}

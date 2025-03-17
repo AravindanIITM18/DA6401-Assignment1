@@ -1,0 +1,16 @@
+{"time":"2025-03-10T12:31:44.4548519+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250310_123144-bi1fgt9d\\logs\\debug-core.log"}
+{"time":"2025-03-10T12:31:44.5809348+04:00","level":"INFO","msg":"created new stream","id":"bi1fgt9d"}
+{"time":"2025-03-10T12:31:44.5809348+04:00","level":"INFO","msg":"stream: started","id":"bi1fgt9d"}
+{"time":"2025-03-10T12:31:44.5809348+04:00","level":"INFO","msg":"sender: started","stream_id":"bi1fgt9d"}
+{"time":"2025-03-10T12:31:44.5809348+04:00","level":"INFO","msg":"handler: started","stream_id":"bi1fgt9d"}
+{"time":"2025-03-10T12:31:44.5809348+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"bi1fgt9d"}
+{"time":"2025-03-10T12:31:44.9622488+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:32:49.4808738+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:32:49.4817719+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:32:50.4904519+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.332268,"progress":"220B/220B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.332268,"progress":"211B/211B"},{"desc":"uploading config.yaml","runtime_seconds":0.0242659,"progress":"975B/975B"}],"total_operations":3}}
+{"time":"2025-03-10T12:32:50.8681959+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:32:51.2815246+04:00","level":"INFO","msg":"stream: closing","id":"bi1fgt9d"}
+{"time":"2025-03-10T12:32:51.2815246+04:00","level":"INFO","msg":"handler: closed","stream_id":"bi1fgt9d"}
+{"time":"2025-03-10T12:32:51.2815246+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bi1fgt9d"}
+{"time":"2025-03-10T12:32:51.2815246+04:00","level":"INFO","msg":"sender: closed","stream_id":"bi1fgt9d"}
+{"time":"2025-03-10T12:32:51.2820339+04:00","level":"INFO","msg":"stream: closed","id":"bi1fgt9d"}

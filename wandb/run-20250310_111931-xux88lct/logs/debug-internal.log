@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:19:31.5175891+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250310_111931-xux88lct\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:19:31.6592342+04:00","level":"INFO","msg":"created new stream","id":"xux88lct"}
+{"time":"2025-03-10T11:19:31.6592342+04:00","level":"INFO","msg":"stream: started","id":"xux88lct"}
+{"time":"2025-03-10T11:19:31.6592342+04:00","level":"INFO","msg":"handler: started","stream_id":"xux88lct"}
+{"time":"2025-03-10T11:19:31.6597931+04:00","level":"INFO","msg":"sender: started","stream_id":"xux88lct"}
+{"time":"2025-03-10T11:19:31.6597931+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"xux88lct"}
+{"time":"2025-03-10T11:19:32.9744809+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:20:29.0421562+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:20:29.0432469+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:20:30.0554048+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3561546,"progress":"979B/979B"}],"total_operations":1}}
+{"time":"2025-03-10T11:20:30.0758851+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:20:30.6325736+04:00","level":"INFO","msg":"stream: closing","id":"xux88lct"}
+{"time":"2025-03-10T11:20:30.6325736+04:00","level":"INFO","msg":"handler: closed","stream_id":"xux88lct"}
+{"time":"2025-03-10T11:20:30.6335899+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xux88lct"}
+{"time":"2025-03-10T11:20:30.6335899+04:00","level":"INFO","msg":"sender: closed","stream_id":"xux88lct"}
+{"time":"2025-03-10T11:20:30.6335899+04:00","level":"INFO","msg":"stream: closed","id":"xux88lct"}

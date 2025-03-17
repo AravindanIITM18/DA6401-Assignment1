@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-03-09T07:05:25.199670Z",
+  "program":  "c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\Assignment 1.ipynb",
+  "codePath":  "Assignment 1.ipynb",
+  "git":  {
+    "remote":  "https://github.com/AravindanIITM18/DA6401-Assignment1.git",
+    "commit":  "5c7439549b1882800dd6b0d5c45ef3cfbee48bbf"
+  },
+  "email":  "mm21b010@smail.iitm.ac.in",
+  "root":  "c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning",
+  "host":  "DESKTOP-9IMSRPV",
+  "executable":  "c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\.conda\\python.exe",
+  "codePathLocal":  "Assignment 1.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "510770802688",
+      "used":  "353124454400"
+    }
+  },
+  "memory":  {
+    "total":  "16469520384"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  }
+}

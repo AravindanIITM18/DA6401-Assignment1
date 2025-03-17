@@ -1,0 +1,16 @@
+{"time":"2025-03-07T14:00:25.7515412+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250307_140025-xgh20dvm\\logs\\debug-core.log"}
+{"time":"2025-03-07T14:00:26.2785591+04:00","level":"INFO","msg":"created new stream","id":"xgh20dvm"}
+{"time":"2025-03-07T14:00:26.2785591+04:00","level":"INFO","msg":"stream: started","id":"xgh20dvm"}
+{"time":"2025-03-07T14:00:26.2785591+04:00","level":"INFO","msg":"sender: started","stream_id":"xgh20dvm"}
+{"time":"2025-03-07T14:00:26.2785591+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"xgh20dvm"}
+{"time":"2025-03-07T14:00:26.2785591+04:00","level":"INFO","msg":"handler: started","stream_id":"xgh20dvm"}
+{"time":"2025-03-07T14:00:26.6740276+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T14:00:39.3612467+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T14:00:39.3640271+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T14:00:40.3156824+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T14:00:40.3788441+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-0, summary, console lines 0-0","runtime_seconds":0.0631617}],"total_operations":1}}
+{"time":"2025-03-07T14:00:40.6732295+04:00","level":"INFO","msg":"stream: closing","id":"xgh20dvm"}
+{"time":"2025-03-07T14:00:40.6732295+04:00","level":"INFO","msg":"handler: closed","stream_id":"xgh20dvm"}
+{"time":"2025-03-07T14:00:40.6732295+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xgh20dvm"}
+{"time":"2025-03-07T14:00:40.6732295+04:00","level":"INFO","msg":"sender: closed","stream_id":"xgh20dvm"}
+{"time":"2025-03-07T14:00:40.67375+04:00","level":"INFO","msg":"stream: closed","id":"xgh20dvm"}

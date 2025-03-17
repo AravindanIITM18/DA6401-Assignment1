@@ -1,0 +1,25 @@
+{"time":"2025-03-09T12:26:50.1427455+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250309_122650-tey5k74h\\logs\\debug-core.log"}
+{"time":"2025-03-09T12:26:50.280872+04:00","level":"INFO","msg":"created new stream","id":"tey5k74h"}
+{"time":"2025-03-09T12:26:50.280872+04:00","level":"INFO","msg":"stream: started","id":"tey5k74h"}
+{"time":"2025-03-09T12:26:50.280872+04:00","level":"INFO","msg":"handler: started","stream_id":"tey5k74h"}
+{"time":"2025-03-09T12:26:50.280872+04:00","level":"INFO","msg":"sender: started","stream_id":"tey5k74h"}
+{"time":"2025-03-09T12:26:50.280872+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"tey5k74h"}
+{"time":"2025-03-09T12:26:50.9666111+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T12:57:00.4627038+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1/tey5k74h/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T12:57:00.5020436+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T12:57:02.6441838+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1/tey5k74h/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T12:57:02.6706493+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T12:57:06.8843507+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1/tey5k74h/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T12:57:07.1476352+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T12:57:14.9756031+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1/tey5k74h/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-09T12:57:37.9562526+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-09T12:57:54.4563072+04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1/tey5k74h/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-09T12:58:19.4583042+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T12:58:19.4593504+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T12:58:20.4794536+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":80.026012,"error_status":"retrying: Post \"https://api.wandb.ai/files/mm21b010-indian-institute-of-technology-madras/DL_A1/tey5k74h/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."},{"desc":"uploading output.log","runtime_seconds":0.4036751,"progress":"251B/251B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4026928,"progress":"198B/198B"},{"desc":"uploading config.yaml","runtime_seconds":0.1059347,"progress":"983B/983B"}],"total_operations":4}}
+{"time":"2025-03-09T12:58:20.7354109+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T12:58:32.5349481+04:00","level":"INFO","msg":"stream: closing","id":"tey5k74h"}
+{"time":"2025-03-09T12:58:32.5349481+04:00","level":"INFO","msg":"handler: closed","stream_id":"tey5k74h"}
+{"time":"2025-03-09T12:58:32.5349481+04:00","level":"INFO","msg":"sender: closed","stream_id":"tey5k74h"}
+{"time":"2025-03-09T12:58:32.5349481+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tey5k74h"}
+{"time":"2025-03-09T12:58:32.5355593+04:00","level":"INFO","msg":"stream: closed","id":"tey5k74h"}

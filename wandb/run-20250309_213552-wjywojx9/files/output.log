@@ -1,0 +1,6 @@
+wandb: WARNING Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+Epoch 1, Loss: 2.3607
+Epoch 1, Loss: 2.3653
+Epoch 1, Loss: 2.3717
+Epoch 1, Loss: 2.3585
+Epoch 1, Loss: 2.3661

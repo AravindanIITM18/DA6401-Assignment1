@@ -1,0 +1,16 @@
+{"time":"2025-03-10T08:39:52.7711255+04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\arvin\\Desktop\\VSCode\\DA6401- Deep Learning\\wandb\\run-20250310_083952-r1ctltn6\\logs\\debug-core.log"}
+{"time":"2025-03-10T08:39:52.8958594+04:00","level":"INFO","msg":"created new stream","id":"r1ctltn6"}
+{"time":"2025-03-10T08:39:52.8958594+04:00","level":"INFO","msg":"stream: started","id":"r1ctltn6"}
+{"time":"2025-03-10T08:39:52.8958594+04:00","level":"INFO","msg":"handler: started","stream_id":"r1ctltn6"}
+{"time":"2025-03-10T08:39:52.8958594+04:00","level":"INFO","msg":"sender: started","stream_id":"r1ctltn6"}
+{"time":"2025-03-10T08:39:52.8958594+04:00","level":"INFO","msg":"writer: Do: started","stream_id":"r1ctltn6"}
+{"time":"2025-03-10T08:39:53.2883623+04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:44:20.8710991+04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:44:20.8732982+04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:44:21.8927141+04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4191143,"progress":"220B/220B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4191143,"progress":"227B/227B"},{"desc":"uploading config.yaml","runtime_seconds":0.0677253,"progress":"979B/979B"}],"total_operations":3}}
+{"time":"2025-03-10T08:44:22.9450108+04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:44:23.3722801+04:00","level":"INFO","msg":"stream: closing","id":"r1ctltn6"}
+{"time":"2025-03-10T08:44:23.3722801+04:00","level":"INFO","msg":"handler: closed","stream_id":"r1ctltn6"}
+{"time":"2025-03-10T08:44:23.3722801+04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"r1ctltn6"}
+{"time":"2025-03-10T08:44:23.3722801+04:00","level":"INFO","msg":"sender: closed","stream_id":"r1ctltn6"}
+{"time":"2025-03-10T08:44:23.3728227+04:00","level":"INFO","msg":"stream: closed","id":"r1ctltn6"}
