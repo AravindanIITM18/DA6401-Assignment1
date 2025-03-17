@@ -50,8 +50,6 @@ python train.py --wandb_entity myname --wandb_project myprojectname
 
 - `--wandb_project`: Your Weights & Biases project name.
 - `--wandb_entity`: Your Weights & Biases entity (your username or team name).
-
-- 
 ### Arguments supported
 
 | Name | Default Value | Description |
