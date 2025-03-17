@@ -1,4 +1,4 @@
-# Deep Learning Assignment - Fashion MNIST & MNIST Classification
+# Deep Learning Assignment - Fashion MNIST Neural Network
 
 This repository contains the code and results for training deep learning models on the **Fashion-MNIST** dataset. The goal of this repo is to code an **Feedforward multilayer Neural Network** from scratch and to experiment with various architectures, optimizers, activations, and loss functions to find the best performing model. The best configurations were then tested on MNIST.
 
@@ -17,14 +17,15 @@ WandB report: (https://wandb.ai/mm21b010-indian-institute-of-technology-madras/D
 .
 ├── train.py                  # Main training script (supports command-line arguments)
 ├── explain.ipynb                  # contains executable cells in the order in which it was written
-├──
 ├── images/                    # Saved plots and visualizations
 │   ├── confusion_matrix_fashion_mnist.png
 │   ├── confusion_matrix_mnist.png
 │   ├── loss_curves.png
 │   └── mnist_samples.png
 ├── requirements.txt           # Dependencies
+├── all individual .py files        # Dependencies
 └── README.md                  # This file
+
 ```
 
 ---
