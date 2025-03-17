@@ -2,7 +2,7 @@
 
 This repository contains the code and results for training deep learning models on the **Fashion-MNIST** dataset. The goal of this repo is to code an **Feedforward multilayer Neural Network** from scratch and to experiment with various architectures, optimizers, activations, and loss functions to find the best performing model. The best configurations were then tested on MNIST.
 
-WandB report: https://wandb.ai/mm21b010-indian-institute-of-technology-madras/DL_A1_final/reports/Copy-of-sivasankar1234-s-DA6401-Assignment-1--VmlldzoxMTcxMTk1Nw/edit?draftId=VmlldzoxMTcxMTk1Nw==
+WandB report: (https://wandb.ai/mm21b010-indian-institute-of-technology-madras/DL_A1_final/reports/DA6401-Assignment-1-Exploring-Neural-Networks--VmlldzoxMTcxMTk1Nw)
 ---
 1. **Objectives:**
    - Train and evaluate fully connected neural networks.
